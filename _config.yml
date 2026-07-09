@@ -16,6 +16,8 @@ defaults:
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Wire up your giscus app details here after enabling Discussions on this repo
 # and installing https://giscus.app on it.
