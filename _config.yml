@@ -1,1 +1,26 @@
-theme: jekyll-theme-time-machine
+title: Whiskeyjack Stories
+description: Current drafts, shared as they are — read, comment, and follow along.
+remote_theme: jekyll/minima
+
+collections:
+  stories:
+    output: true
+    permalink: /stories/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: stories
+    values:
+      layout: story
+
+plugins:
+  - jekyll-remote-theme
+
+# Wire up your giscus app details here after enabling Discussions on this repo
+# and installing https://giscus.app on it.
+giscus:
+  repo: "whiskeyjack-fc/whiskeyjack-fc.github.io"
+  repo_id: "MDEwOlJlcG9zaXRvcnkxOTM2NTM3MTE="
+  category: "Comments"
+  category_id: "DIC_kwDOC4rrz84DA0kj"

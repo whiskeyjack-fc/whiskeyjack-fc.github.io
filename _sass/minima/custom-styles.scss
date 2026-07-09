@@ -1,0 +1,29 @@
+.story-title {
+  margin-bottom: 0.25em;
+}
+
+.story-blurb,
+.story-credit {
+  color: $grey-color-dark;
+  max-width: 700px;
+}
+
+.story-body {
+  max-width: 700px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.story-body p {
+  margin-bottom: 1.4em;
+}
+
+.story-list li {
+  margin-bottom: 1.5em;
+  list-style: none;
+}
+
+.story-list {
+  padding-left: 0;
+}
