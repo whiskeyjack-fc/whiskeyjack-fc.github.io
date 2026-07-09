@@ -1,6 +1,6 @@
 title: Whiskeyjack Stories
 description: Current drafts, shared as they are — read, comment, and follow along.
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v2.5.2
 
 collections:
   stories:
