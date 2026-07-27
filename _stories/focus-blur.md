@@ -3,11 +3,11 @@ title: "Focus Blur"
 layout: story
 slug: "focus-blur"
 blurb: "A photographer who can't quite catch the shot learns that some things, like people, only arrive once you stop chasing them. A quiet, aching story about attention, patience, and the space between two people who notice everything about each other except how to say it."
-credit: "from a dream by F. Caljon"
+credit: "F. Caljon"
 ---
 The butterflies don't hold still.
 
-I've been crouching at the edge of the flower bed for five minutes, moving in slow increments, holding my breath. Every time I press the shutter, I know before I look. The preview screen confirms it. Orange smear on blue-green blur. Nothing. Eight months with this camera. At some point you'd think it'd just come easier.
+I've been crouching at the edge of the flower bed for five minutes, moving in slow increments, holding my breath. Every time I press the shutter, I know before I look. The preview screen confirms it. Orange smear on blue-green blur. Nothing. Eight weeks with this camera. At some point you'd think it'd just come easier. Maybe I should have practiced more.
 
 "Can I?"
 
@@ -21,9 +21,9 @@ My brother, Ethan, is a few steps away, following this with pleasant interest. "
 
 "The camera's fixed," Maya says, mouth pressed flat, like she's decided not to say the rest.
 
-I raise the camera, find an orange butterfly settled on a cluster of purple-blue flowers I don't know the name of, press the shutter.
+I raise the camera, find an orange butterfly settled on a cluster of purple-blue flowers, press the shutter.
 
-Sharp image, good light, exposure right down to the stop. Something's missing.
+Sharp image, good light. Something's missing.
 
 The butterfly has lifted off. What I have is a perfect photograph of where it was.
 
@@ -37,7 +37,7 @@ I hold the camera and look at the empty flower.
 
 We spend another hour in the park, the three of us. Ethan carries most of it. I've seen him like this before: words coming fast, no gaps, one story folding into the next before the last one's finished landing. She meets it well. Asks the right questions, laughs at the right moments, lets him find his pace.
 
-I drove us here, which was supposed to be the whole job today: get Ethan to the park, get him to the flat, get him home still talking about her. I'm mostly to the side of things. Taking shots. Still missing butterflies. The autofocus is working now. The shots are sharp, just empty. I catch Maya glancing at me a few times. Brief, not pointed, gone before I can read anything into it.
+I drove us here, which was supposed to be the whole job today: get Ethan to the park, get him to the flat, get him home still talking about her. I'm mostly to the side of things. Taking shots. Still missing butterflies, even though the autofocus is working now. I catch Maya glancing at me a few times. Brief, not pointed, gone before I can read anything into it.
 
 She looks over once, longer than the others. "I bet you've chaperoned him before."
 
@@ -45,13 +45,11 @@ She looks over once, longer than the others. "I bet you've chaperoned him before
 
 She doesn't look away right away. Then she turns back to Ethan, leaves it there.
 
-The afternoon moves. Ethan talks and she listens; she talks and he leans in.
-
 ---
 
-Maya's flat slows you down before you've taken your shoes off. Photographs on every wall, not decorative, actual work. A mountainside going grey in fog, the summit already gone. Whatever she went up there to photograph, she stayed for this instead. A child watching rain on a window from the inside. The glass fogged slightly where she'd leaned close. A market stall being folded down in fading light, seller's back turned. Unbothered by being seen.
+Just inside Maya's flat, I stop, one shoe half off. Photographs on every wall, not decorative, actual work. A mountainside going grey in fog, the summit already gone. Whatever she went up there to photograph, she stayed for this instead. A child watching rain on a window from the inside. The glass fogged slightly where she'd leaned close. A market stall being folded down in fading light, seller's back turned. Unbothered by being seen.
 
-Ethan finds her bookshelf and starts asking questions. He finds the nearest object and begins, warm in a way that makes rooms rearrange themselves around him. She's pulling a book down before he's finished asking if she has it.
+Ethan finds her bookshelf and starts asking questions. She's pulling a book down before he's finished the sentence.
 
 I'm standing in front of a photograph of an empty junction in early morning. Almost nobody in it. A stopped bike near the left edge, owner nowhere. The feeling in it is someone who waited for the street to almost empty. Who knew what they were waiting for.
 
@@ -69,7 +67,7 @@ She's quiet a second, a half-beat longer than the question needs. "Last February
 
 Ethan excuses himself to find the bathroom.
 
-We go to the kitchen table with the camera between us. She pulls the card, puts it in her laptop, opens the folder without a word. A series of butterfly shots: each one arrested at the instant of stillness, wings fully open, every detail resolved. She clicks through them slowly.
+We go to the kitchen table with her camera between us. She pulls the card, puts it in her laptop, opens the folder without a word. A series of butterfly shots: each one arrested at the instant of stillness, wings fully open, every detail resolved. She clicks through them slowly.
 
 "I waited for each of these," she says. "I'd find one that was feeding, wait for it to settle, then back up, get into position, and wait until I was certain before I touched the shutter."
 
@@ -79,11 +77,11 @@ She looks at me then, not the screen. "You don't. You just decide you've waited 
 
 "What did you do?"
 
-"Packed up. Went home." Her hands go still over the keyboard, like she's back there for a second.
+"Packed up. Went home." Her hands go still over the keyboard for a second, back in that morning.
 
-She doesn't look away first. "Most people ask how I got the shot."
+She holds my eyes a second longer before turning to the screen. "Most people ask how I got the shot."
 
-She leans forward to scroll, and her arm comes to rest against mine on the table. The length of a forearm. Not a brush — contact, easy and unannounced, like something that hasn't decided yet if it means anything.
+She leans forward to scroll, and her arm comes to rest against mine on the table. The length of a forearm. Not a brush — contact, easy and unannounced, its meaning still unclaimed.
 
 I don't move my arm.
 
@@ -113,7 +111,7 @@ The room is very still. I can hear the clock on the wall. From down the hall, th
 
 Ethan.
 
-Who has written to her for four years. Who has never once looked at someone the way he looked at her before she'd said a word. By the second hour in the park he'd started leaving gaps in his sentences instead of racing to fill them.
+Who has written to her for four years. Who has never once looked at someone the way he looked at her before she'd said a word.
 
 Maya sits back first, before she has to, like she's doing them both a favor. The tap hasn't stopped yet. She wraps both hands around her mug, knuckles pale where she's holding it harder than it needs.
 
@@ -133,7 +131,7 @@ I'd been wrong about the sleeve.
 
 Footsteps.
 
-Ethan comes back into the room mid-sentence. He drops into the chair beside me and nudges my knee with his the way he does when he wants my agreement. "She's something, isn't she?" he says.
+Ethan comes back into the room mid-sentence. He drops into the chair beside me and nudges my knee with his, the way he does when he wants my agreement. "She's something, isn't she?" he says.
 
 "Yeah," I say. My eyes are on her, not on him.
 
@@ -141,17 +139,17 @@ Maya turns to face him, smiling, genuinely. Whatever just happened, she doesn't 
 
 ---
 
-She makes pasta. Nothing complicated. Ethan is at the table, still going on the bookshelf he found earlier. She hands me the wine and a corkscrew. I keep my eyes on the bottle like it's the only thing in the room, grip too tight, willing my hands not to embarrass me. Three tries before the cork gives. Half of it crumbles into the bottle. She watches, not unkindly, and doesn't offer to take over.
+She makes pasta. Nothing complicated. Ethan is at the table, still going on about the bookshelf he found earlier. She hands me the wine and a corkscrew. I keep my eyes on the bottle like it's the only thing in the room, grip too tight, willing my hands not to embarrass me. Three tries before the cork gives. Half of it crumbles into the bottle. She watches, not unkindly, and doesn't offer to take over.
 
 "Impressive," she says.
 
 "It's decorative now. Adds character."
 
-"Adds sediment," she says, and gets two glasses anyway.
+"Adds sediment," she says, and gets three glasses anyway.
 
 Ethan talks and we let him. This is his afternoon. Four years of letters finally in the same room. Maya holds her side of it well. She catches my eye over the pot, spoon still moving, before turning back to him. She has stories, and the way she tells them is specific in the right places, slightly self-deprecating, never showy. A missed train in Prague that turned into three days she didn't plan. A photograph she drove four hours to take and got wrong, and drove back the following week to get right.
 
-Ethan laughs at the Prague story like he already knows its shape. "Classic you," he says. "You'd find the story in anything." Maya's smile holds, then settles a half-second late. "There wasn't much finding," she says. "Mostly two days at a ticket counter that wouldn't reopen."
+Ethan laughs at the Prague story, already sure he knows its shape. "Classic you," he says. "You'd find the story in anything." Maya keeps smiling. It takes her a half-second too long to mean it. "There wasn't much finding," she says. "Mostly two days at a ticket counter that wouldn't reopen."
 
 "And then—" she starts, but he's off before she finishes: "—that happened to us in Lisbon, actually. Got to the hostel past midnight, reception locked till six, sat on our bags in the stairwell till it opened." He'd slept through most of it. I was the one still awake when reception opened. He never asks what she'd been about to say. She lets it go.
 
@@ -183,7 +181,7 @@ Ethan claps my shoulder on his way past. "Told you she'd get you talking." Easy,
 
 Maya catches the look Ethan is giving, and her hand tightens on the door until her knuckles go white. "Right," she says. To no one.
 
-He steps outside, phone already out, thumbing a message to someone, humming under his breath. If he's decided what tonight was, he doesn't let on. He's my brother. I drove him here. I want her anyway, thinking of the knee under the table, of saying yes and not knowing what I meant.
+He steps outside and heads for the car, phone out, thumbing a message to someone, humming under his breath. If he's decided what tonight was, he doesn't let on. He's my brother. I drove him here. I want her anyway, thinking of the knee under the table, of saying yes and not knowing what I meant.
 
 "The ticket counter," I say. "What were you about to say?"
 
