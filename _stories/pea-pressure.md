@@ -250,5 +250,5 @@ From the hallway came a long silence, then the clatter of a broom hitting the fl
 
 Sophie smiled.
 
-“But he’s not old enough to stop falling for it.”
+“But he’d never grown up enough to stop falling for it.”
 
