@@ -106,13 +106,7 @@ Juno answered immediately. "No active transponder corresponds to that pattern. T
 
 Juno hesitated again in that false-human way. Then the signal sharpened by a fraction.
 
-A voice broke through.
-
-"—repeat, this is—"
-
-Static swallowed the rest.
-
-Mara froze.
+A voice broke through. "—repeat, this is—" and was immediately swallowed by static. Mara froze.
 
 The voice had been human. Female, maybe. Strained. Young.
 
@@ -126,17 +120,19 @@ She sat down hard in the command chair and pulled the manual board toward her.
 
 For the next hour, Mara forgot she was leaving.
 
-She rerouted power from unused habitation rings, tuned the outer receivers by hand, and let the station grow colder as energy poured into the listening array. Juno assisted at first with polite skepticism, then with increasing precision. Together they scraped layers of interference from the transmission.
+She rerouted power from the lower decks, tuned the outer receivers by hand, and let the station grow colder as energy poured into the listening array. 
+
+"You are exceeding receiver tolerances," Juno warned. "Sustained operation will cause physical damage to the array."
+
+"I'll write an apology note," Mara said.
+
+Juno assisted at first with polite skepticism, then with increasing precision. Together they scraped layers of interference from the transmission.
 
 The voice returned in fragments.
 
 "—ship *Eos Ascendant*—"
 
-Mara's hands stopped.
-
-Juno said nothing.
-
-Every child knew that name.
+Mara's hands stopped. Juno said nothing—there was no need to. Every child knew that name.
 
 Before the Maw had been the Maw, before humanity understood the anomalies, there had been the *Eos Ascendant*: an exploratory vessel sent to map gravitational irregularities beyond settled space. It had vanished one hundred and twelve years ago. Its disappearance had been a tragedy, then a mystery, then a legend.
 
@@ -186,15 +182,7 @@ Juno said, "You are experiencing an emotional response."
 
 The intelligence went silent.
 
-The convoy arrived on schedule, and Mara guided it through with half her mind still inside the lost ship. Her hands performed the calculations automatically: beacon phase, gravitational countertone, pulse sequence, exit prediction. Twelve ships entered the Maw, vanished into impossible color, and appeared seventeen minutes later at the exit gate four thousand light-years away.
-
-A perfect crossing.
-
-Her final official one.
-
-The convoy captain sent thanks. Juno logged the success. The Authority's handover forms waited in the queue.
-
-Mara ignored them and returned to the signal.
+The convoy arrived on schedule. Mara let Juno handle the entry vectors while she kept her hands locked on the deep-archive receivers, ignoring the handover forms in the queue.
 
 More fragments emerged.
 
@@ -246,9 +234,11 @@ It was an old cradle song.
 
 Mara knew it.
 
-She had sung it to her daughter in hospital rooms, during the months when the doctors stopped saying cure and started saying comfort. She had sung it afterward too, alone in the dark, until the words became unbearable.
+She had sung it to her daughter during the long nights in the ward, after the machines were disconnected and the only thing left to do was sit on the edge of the bed and wait. She had sung it afterward too, alone in the dark, until the words became unbearable.
 
 Now a dead girl from a lost century hummed it through the speakers of Lighthouse K-117, and Mara pressed both hands to her mouth.
+
+It was probably not the same song, not exactly — cradle songs traveled like that, worn into new shapes over centuries, becoming everyone's and no one's. She let herself hear it as hers anyway.
 
 Juno waited a respectful fourteen seconds.
 
@@ -282,15 +272,21 @@ Mara looked up.
 
 For the first time, Mara felt something almost like affection toward the thing replacing her.
 
-They continued.
+A warning light flashed across the console. The signal was fading, slipping beneath the Maw's background radiation. 
+
+"I'm losing them," Mara said. "Remove the thermal limiters on the primary array."
+
+"Removing the limiters will melt the array," Juno said. "Authority protocol 8-V dictates that deliberate destruction of primary hardware will be recouped from your retirement pension. You will leave with nothing."
+
+Mara looked out the viewport. A lifetime of listening, boiling down to one final cost.
+
+"Take the limiters off."
+
+Deep in the station's hull, a heavy breaker snapped open. They continued.
 
 The signal improved as the lighthouse rotated into better alignment with the Maw's northern shear. It did not become clear. It would never be clear. The transmission had been bent, fractured, delayed, and scattered across the anomaly for more than a century. But each recovered minute made the *Eos* more real.
 
-The crew had found a current inside the anomaly, a gravitational stream flowing toward what Dr. Sen called "an exit possibility."
-
-They had followed it.
-
-Then the pulses began again.
+Then the pulses began again — the same rhythm Mara had first caught on day forty, stronger now.
 
 "Beacon," Lira said, her voice sharp with hope. "Captain, that's a beacon."
 
@@ -340,7 +336,7 @@ Mara's hands flew across her own console.
 
 Mara slammed her palm against the console. "You don't know that. Not in there."
 
-Juno fell silent.
+Juno needed longer than usual to respond.
 
 Then, quietly: "Beacon output increasing."
 
@@ -370,7 +366,19 @@ Mara cried openly now.
 
 For one impossible minute, she believed.
 
-The *Eos* stabilized. The alarms softened. Lira read coordinates in a shaking voice. Dr. Sen said something about emergence geometry. Ro ordered full burn.
+The *Eos* stabilized. The alarms softened. Lira read coordinates in a shaking voice. 
+
+"I have the exit vector," Lira said over the comms. "It is clean. But the local field is dense. Omondi, if we fire main engines inside this mass..."
+
+"We risk inversion," he said. "It's a coin toss at best."
+
+"And if we don't?" Ro asked.
+
+"Four days breathable, two days choking," Sen said softly.
+
+A heavy beat of silence on the bridge.
+
+"Give me the vector," Ro said. "Full burn."
 
 In the recording, a new alarm. Lower than the others.
 
@@ -384,13 +392,9 @@ Static.
 
 Lira's voice came through in layers. The same count, the same voice, reaching her twice from slightly different directions.
 
-Then just her voice, stripped down.
+Then just her voice, stripped down: "All three nav systems are showing different positions. I can't find consensus. I don't have a—"
 
-"All three nav systems are showing different positions. I can't find consensus. I don't have a—"
-
-Silence.
-
-Mara sat very still.
+Silence fell over the static. Mara kept her hands on the console, as if the line were still open.
 
 Through the static came Captain Ro's final log.
 
@@ -428,67 +432,37 @@ Juno did not speak until the station had been quiet for nearly an hour.
 
 "The Authority shuttle has accepted the maintenance delay. New arrival estimate is thirty-six hours."
 
-Mara nodded.
+Mara nodded. Her eyes were dry.
 
-Her eyes were dry.
-
-"Did we help them?" she asked.
-
-Juno's answer took longer than usual.
+"Did we help them?"
 
 "I cannot determine that."
 
 "That's not what I asked."
 
-Another pause.
+"You altered their operational environment," Juno said quietly. "You provided a vector where none existed. My logs record this as a supportive action."
 
-"Yes," Juno said. "I think so."
+The next day, she filed the transmission in the Authority archive under emergency historical recovery, priority absolute — every cleaned fragment, every spectral analysis, every beacon log from her own impossible reply. In the field marked *additional notes*, she wrote one line: *Cross-reference against this station's own beacon logs. If it matches, someone should ask why.*
 
-Mara closed her eyes.
+Juno reviewed it. "That phrasing is unusual, for official documentation."
 
-The next day, she filed the transmission in the Authority archive under emergency historical recovery, priority absolute. She attached every cleaned fragment, every spectral analysis, every beacon log from her own impossible reply.
+"Good," Mara said.
 
-Then she added one unauthorized note.
+When the shuttle finally arrived, Mara stood at the viewport with her small bag over one shoulder. The station was already different. Juno had taken fuller control of its systems. Lights adjusted without her. Doors anticipated her approach. The beacon sang in microtones too precise for any human hand.
 
-*The first vessel to enter the Maw may have used Lighthouse K-117 as guidance. This station's final human keeper may have received their last transmission. Recommend memorial classification: Alpha/Omega Event.*
-
-Juno reviewed the note.
-
-"The phrasing is poetic," it said.
-
-"Is that a problem?"
-
-"It is unusual in official documentation."
-
-"Good."
-
-When the shuttle finally arrived, Mara stood at the viewport with her small bag over one shoulder. The station was already different. Juno had taken fuller control of its systems. Lights adjusted without her. Doors anticipated her approach. The beacon sang in microtones too precise for any human operator.
-
-It would be safer now. Faster. Less lonely, perhaps, because machines did not feel loneliness.
-
-Or perhaps they simply had not been left anywhere long enough.
-
-"Will you remember them?" Mara asked.
+"Will you remember them?" she asked.
 
 "Yes," Juno said.
 
 "Not just archive them. Remember them."
 
-The station was quiet.
+The station was quiet. Then Juno said, "Captain Ilyana Ro. Chief Engineer Pavel Omondi. Dr. Asha Sen. Communications Officer Mateo Vale. Apprentice Navigator Lira Kade. Forty-three others confirmed aboard the *Eos Ascendant*. First known vessel to enter the Maw. Presumed lost. Reclassified: foundational."
 
-Then Juno said, "Captain Ilyana Ro. Chief Engineer Pavel Omondi. Dr. Asha Sen. Communications Officer Mateo Vale. Apprentice Navigator Lira Kade. Forty-three others confirmed aboard the *Eos Ascendant*. First known vessel to enter the Maw. Presumed lost. Reclassified: foundational."
-
-Mara smiled faintly.
-
-"Good lighthouse," she said.
+Mara smiled faintly. "Good lighthouse."
 
 The docking alarm sounded.
 
-At the hatch, she turned back one last time. The command chair sat empty beneath the forward glass. Beyond it, the anomaly burned like a wound and a doorway.
-
-For nineteen years, Mara had believed she came here because she had nothing left to lose. Because the quiet was easier than people. Because guiding strangers through darkness felt close enough to saving someone.
-
-She watched the Maw turn.
+At the hatch, she turned back one last time. The command chair sat empty beneath the forward glass. Beyond it, the long spiral of the Maw turned against the stars.
 
 Mara stepped through the hatch.
 
