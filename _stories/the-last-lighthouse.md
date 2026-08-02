@@ -4,7 +4,7 @@ layout: story
 slug: "the-last-lighthouse"
 blurb: "On her last day tending a lighthouse at the edge of a galaxy-spanning anomaly, keeper Mara Venn packs away nineteen years of ghosts — until a signal that shouldn't exist changes everything about staying gone."
 ---
-By the time the replacement arrived, Mara Venn had already begun packing away her ghosts.
+By the time Juno arrived, Mara Venn had already begun packing away her ghosts.
 
 Not all of them. Some were bolted into the walls.
 
