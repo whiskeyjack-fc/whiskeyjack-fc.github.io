@@ -28,7 +28,7 @@ Mara almost smiled. "Everyone is."
 
 Outside the viewport, the Maw turned in silence.
 
-For something that had changed human history, it looked strangely quiet — a dark seam in space, glowing faintly at the edges.
+For something that had changed human history, it looked strangely quiet: a dark seam in space, glowing faintly at the edges.
 
 A great spiral fracture hung beyond the lighthouse, spread across a thousand kilometers of vacuum. Its edges shimmered blue-white where normal space folded thin. Within it, colors moved that eyes did not have names for. Ships entered it as points of light, guided by signal pulses from stations like this one, and emerged hours later on the far side of the galaxy.
 
@@ -66,7 +66,7 @@ That was the shape of the rest of her life.
 
 Then the static began.
 
-At first it was nothing more than a tremor beneath the background radiation, a faint abrasion against the listening band. Nineteen years of listening had taught her ears the ordinary shape of the Maw's noise — and this wasn't it. Mara heard it before Juno flagged it.
+At first it was nothing more than a tremor beneath the background radiation, a faint abrasion against the listening band. Nineteen years of listening had taught her ears the ordinary shape of the Maw's noise, and this wasn't it. Mara heard it before Juno flagged it.
 
 She turned from the viewport.
 
